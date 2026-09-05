@@ -19,7 +19,7 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Publish backend
-        run: dotnet publish ./Dapper_CRUD/Dapper_CRUD.csproj -c Release -o D:\backend_temp
+        run: dotnet publish ./Dapper_CRUD/Dapper_CRUD/Dapper_CRUD.csproj -c Release -o D:\backend_temp
 
       - name: Deploy backend
         shell: powershell
