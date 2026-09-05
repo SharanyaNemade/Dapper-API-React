@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper-api-react\\dapper_crud\\dapper_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper-api-react\\dapper_crud\\dapper_crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper-api-react\\dapper_crud\\dapper_crud\\interface\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\interface\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper-api-react\\dapper_crud\\dapper_crud\\service\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\service\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper-api-react\\dapper_crud\\dapper_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper-api-react\\dapper_crud\\dapper_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper-api-react\\dapper_crud\\dapper_crud\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|d:\\dapper\\dapper-api-react\\dapper_crud\\dapper_crud\\models\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B34AFA-91E6-48D4-8BAC-920195361F91}|Dapper_CRUD\\Dapper_CRUD.csproj|solutionrelative:dapper_crud\\models\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 412,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\Models\\Employee.cs",
+              "ToolTip": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Models\\Employee.cs",
+              "RelativeToolTip": "Dapper_CRUD\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:12:32.108Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmpService.cs",
+              "DocumentMoniker": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Interface\\IEmpService.cs",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\Interface\\IEmpService.cs",
+              "ToolTip": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Interface\\IEmpService.cs",
+              "RelativeToolTip": "Dapper_CRUD\\Interface\\IEmpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:12:32.191Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpService.cs",
+              "DocumentMoniker": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Service\\EmpService.cs",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\Service\\EmpService.cs",
+              "ToolTip": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Service\\EmpService.cs",
+              "RelativeToolTip": "Dapper_CRUD\\Service\\EmpService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:12:31.783Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Dapper_CRUD\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:12:32.188Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\Data\\DapperContext.cs",
+              "ToolTip": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Data\\DapperContext.cs",
+              "RelativeToolTip": "Dapper_CRUD\\Data\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:12:32.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\appsettings.json",
+              "ToolTip": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\appsettings.json",
+              "RelativeToolTip": "Dapper_CRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-13T15:12:32.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\Program.cs",
+              "ToolTip": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Program.cs",
+              "RelativeToolTip": "Dapper_CRUD\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:12:32.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Managers.cs",
+              "DocumentMoniker": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Models\\Managers.cs",
+              "RelativeDocumentMoniker": "Dapper_CRUD\\Models\\Managers.cs",
+              "ToolTip": "D:\\Dapper\\Dapper-API-React\\Dapper_CRUD\\Dapper_CRUD\\Models\\Managers.cs",
+              "RelativeToolTip": "Dapper_CRUD\\Models\\Managers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:12:32.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
