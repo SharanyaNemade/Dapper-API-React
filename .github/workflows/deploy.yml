@@ -1,0 +1,46 @@
+name: Build and Deploy to IIS
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # ---- Backend ----
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Publish backend
+        run: dotnet publish ./Dapper_CRUD/Dapper_CRUD.csproj -c Release -o D:\backend_temp
+
+      - name: Deploy backend
+        shell: powershell
+        run: |
+          Import-Module WebAdministration
+          Stop-WebAppPool -Name "Dapper_CRUD"
+          robocopy "D:\backend_temp" "D:\IIS-Publish" /E /XO
+          Start-WebAppPool -Name "Dapper_CRUD"
+
+      # ---- Frontend ----
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install & build frontend
+        working-directory: ./Dapper_React/dapper_react
+        run: |
+          npm install
+          npm run build
+
+      - name: Deploy frontend
+        shell: powershell
+        run: robocopy "Dapper_React\dapper_react\dist" "D:\IIS Frontend Publish" /E /XO
